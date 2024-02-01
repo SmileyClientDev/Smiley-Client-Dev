@@ -22,7 +22,8 @@ Smiley Client is designed to be compatible with popular Minecraft mods and plugi
 Rest easy knowing that Smiley Client prioritizes the security of your gaming environment. Our client includes built-in security features to help protect your Minecraft account and data.
 
 ### Installation
-- Download the Smiley Client installer from our official website.
-- Run the installer and follow the on-screen instructions.
-- Launch Minecraft with Smiley Client selected as your preferred client.
-- Enjoy the optimized hacking experience!
+- Get [Fabric](https://fabricmc.net/)
+- Get [Meteor Client](https://meteorclient.com/)
+- Download the latest version of Smiley Client.
+- Make a backup of your `.minecraft\meteor-client` folder.
+- Unpack Smiley Client in your `.minecraft\meteor-client`.
