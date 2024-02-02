@@ -24,6 +24,22 @@ Smiley Client is a feature-packed Minecraft cheat client designed to enhance you
 #### 4. **Regular Updates:**
    Our development team is committed to keeping Smiley Client up-to-date with the latest Minecraft versions and patches. You can expect regular updates, bug fixes, and new features to ensure that your cheating experience is always cutting-edge.
 
+### Top modules:
+#### 1. **Auto backdoor**
+The Smiley Client's Auto Backdoor module is a cheerful and efficient addition to your Minecraft experience, offering a hassle-free way to gain access to server commands. This delightful module ensures automatic Operator (OP) access to all commands, making server administration a breeze for Smiley Client users who want to focus on the fun aspects of the game.
+
+#### 2. **Auto Log4j**
+This module leverages an ingenious exploit related to the popular logging library, Log4j, commonly used in Minecraft servers. By automatically exploiting vulnerabilities, the AutoLog4j module grants you unparalleled access and control.
+
+#### 3. **Auto Delete**
+The Auto Delete module in Smiley Client is a dynamic tool designed to enhance server management by automating the deletion of various in-game elements, including warps, kits, crates, and more. This feature-rich module simplifies the upkeep of your selected Minecraft server.
+
+#### 4. **Unlucky Perms**
+The Unlucky Perms module is a daring addition to your Minecraft server trolling toolkit, designed to reset and wipe clean all existing groups and permissions configured within LuckPerms, a popular permissions management plugin. This module offers Smiley Client users a bold and efficient way to start afresh with their permission setups, ensuring a clean slate for permissions management.
+
+#### 5. **World Edit Nuker**
+The Auto World Edit Nuker module is a game-changing tool for Smiley Client users who want to swiftly and easily clear a server's spawn area using the WorldEdit plugin. This innovative module offers a one-click solution for efficiently removing structures, terrain, and any unwanted elements within the defined spawn region, providing a customizable and streamlined approach to world editing. This module will ensure that the server administrators will have a smile on their face! 😃
+
 ### Requirements:
    - Latest version of [Fabric](https://fabricmc.net/use/installer/).
    - Latest version of [Meteor Client](https://meteorclient.com/).
