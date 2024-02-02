@@ -59,11 +59,3 @@ Smiley Client is intended for educational and entertainment purposes only. The u
 For any inquiries, feedback, or assistance, please join our community on [Discord](https://discord.gg/WNRZNNXdMc).
 
 ### Happy Cheating with Smiley Client!
-
-
-<details>
-  <summary>click if u wanna break the "immersion"</summary>
-  
-  this is a shitpost but have fun using the cancerous waypoint icons and theme 😃
-  
-</details>
